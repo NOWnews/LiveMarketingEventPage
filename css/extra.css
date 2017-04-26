@@ -3,21 +3,32 @@
     top: 10%;
 }
 
+
 /*
 small device
 */
 
-.video-header{
-    color:#2d6e84;
+img.nownews-logo {
+    position: absolute;
+    width: 306px;
+    height: 60px;
+    left: -15%;
+    top: 20%;
 }
-#video-text{
-    margin-top:20px;
+
+.video-header {
+    color: #2d6e84;
 }
+
+#video-text {
+    margin-top: 20px;
+}
+
 .menu {
-        margin-bottom: 30px !important;
-        display:none;
-        /*visibility: hidden;*/
-    }
+    margin-bottom: 30px !important;
+    display: none;
+    /*visibility: hidden;*/
+}
 
 #myCarousel {
     padding-top: 0px;
@@ -36,16 +47,16 @@ pc
 */
 
 @media (min-width: 767px) {
-    img.nownews-logo{
-    position: absolute;
-    width: 306px;
-    height: 60px;
-    left: -15%;
-    top: 20%;
-}
+    img.nownews-logo {
+        position: absolute;
+        width: 306px;
+        height: 60px;
+        left: -15%;
+        top: 20%;
+    }
     .menu {
         margin-bottom: 30px !important;
-        display:inherit;
+        display: inherit;
         visibility: visible;
     }
     #myCarousel {
@@ -57,5 +68,4 @@ pc
         margin: 150px 0 50px 0;
         display: inline-block;
     }
-    
 }
