@@ -46,7 +46,7 @@ footer p{
 
 .featured-blocks .row-fluid .span4 .block {
     height: 240px;
-    background-size: 100%;
+    background-size: cover;
 }
 
 .featured-blocks .row-fluid .span4 .block h1 {
