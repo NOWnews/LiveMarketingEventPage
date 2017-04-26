@@ -1,0 +1,25 @@
+{
+  "name": "live_marketing_event_page",
+  "version": "1.0.0",
+  "description": "龍潭大小事活動頁面",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm i && ./node_modules/gulp/bin/gulp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOWnews/LiveMarketingEventPage.git"
+  },
+  "author": "appleoxxo@gmail.com, bird23074035@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NOWnews/LiveMarketingEventPage/issues"
+  },
+  "homepage": "https://github.com/NOWnews/LiveMarketingEventPage#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "yargs": "^7.1.0"
+  }
+}
