@@ -38,18 +38,33 @@ footer p{
 }
 
 body {
-    font-family:"微軟正黑體", "Microsoft JhengHei", "新細明體", "PMingLiU", "細明體", "MingLiU", "標楷體", "DFKai-sb", serif !important;
+    font-family:"Microsoft JhengHei", "微軟正黑體", "新細明體", "PMingLiU", "細明體", "MingLiU", "標楷體", "DFKai-sb", serif !important;
 }
 
 .banner {
     background: url(../img/bg-live.jpg) repeat;
     background-size: cover;
 }
+.header-wrapper {
+    background: #f5f5f6;
+}
 /* 精彩回顧*/
+.featured-blocks #grid h1 {
+    color: #fff9ea;
+}
+
+@media (max-width: 480px){
+    .featured-blocks #grid h1 {
+        position: relative;
+        top: 50px;
+    }
+}
+
 .featured-blocks .row-fluid .span4 .block {
     height: 240px;
     background-size: cover;
     background-position: center;
+    margin-bottom: 20px;
 }
 
 .featured-blocks .row-fluid .span4 .block h1 {
