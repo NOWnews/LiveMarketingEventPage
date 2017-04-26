@@ -3,10 +3,10 @@
     top: 10%;
 }
 
-
 /*
 small device
 */
+
 .video-header{
     color:#2d6e84;
 }
@@ -36,6 +36,13 @@ pc
 */
 
 @media (min-width: 767px) {
+    img.nownews-logo{
+    position: absolute;
+    width: 306px;
+    height: 60px;
+    left: -15%;
+    top: 20%;
+}
     .menu {
         margin-bottom: 30px !important;
         display:inherit;
