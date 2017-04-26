@@ -36,3 +36,14 @@ footer p{
 .footer-social a:hover{
     color:#FFF;
 }
+
+.featured-heading .grid li h1.title {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.featured-blocks .row-fluid .span4 .block {
+    height: 240px;
+}
