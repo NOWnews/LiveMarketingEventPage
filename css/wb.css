@@ -37,6 +37,14 @@ footer p{
     color:#FFF;
 }
 
+body {
+
+}
+
+.banner {
+    background: url(../img/bg-live.jpg) repeat;
+    background-size: cover;
+}
 /* 精彩回顧*/
 .featured-blocks .row-fluid .span4 .block {
     height: 240px;
@@ -52,6 +60,14 @@ footer p{
     color: #fff;
 }
 
+.icon:after {
+    border-top: 0;
+}
+
+.icon:before {
+    border-bottom: 0;
+}
+
 /*名家論壇*/
 
 .featured-heading .grid li h1.title {
@@ -60,7 +76,6 @@ footer p{
     padding-top: 15px;
     text-align: center;
     font-size: 22px;
-
 }
 
 .featured-heading .grid li .block {
@@ -73,3 +88,15 @@ footer p{
     background-size: cover;
     background-position: center;
 }
+
+@media (max-width: 480px){
+    .featured-heading .grid li a {
+        height: 350px;
+    }
+}
+@media (max-width: 767px){
+    .featured-heading .grid li a {
+        height: 275px;
+    }
+}
+
