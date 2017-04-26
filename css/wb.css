@@ -76,17 +76,25 @@ body {
     padding-top: 15px;
     text-align: center;
     font-size: 22px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 
 .featured-heading .grid li .block {
     padding: 10px 10px;
 }
 
+.featured-heading .grid li {
+    margin-bottom: 40px;
+}
+
 .featured-heading .grid li a {
-    height: 650px;
+    height: 450px;
     width: 100%;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 @media (max-width: 480px){
@@ -99,4 +107,6 @@ body {
         height: 275px;
     }
 }
+
+
 
