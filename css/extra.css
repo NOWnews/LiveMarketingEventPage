@@ -8,33 +8,39 @@
 small device
 */
 
-#myCarousel{
-    
-padding-top: 0px;
+.menu {
+        margin-bottom: 30px !important;
+        visibility: hidden;
+    }
 
+#myCarousel {
+    padding-top: 0px;
 }
-.youtube-iframe{
-    width:100%;
-    height:300px;
-    margin:0 0 100px 0; 
-    display:inline-block;
+
+.youtube-iframe {
+    width: 100%;
+    height: 300px;
+    margin: 0 0 100px 0;
+    display: inline-block;
 }
+
 
 /*
 pc
 */
-@media (min-width: 700px) {
- 
-    
-#myCarousel{
-    
-padding-top: 80px;
-}
-    .youtube-iframe{
-    width:100%;
-    height:600px;
-    margin:150px 0 100px 0; 
-    display:inline-block;
-}
-}
 
+@media (min-width: 767px) {
+    .menu {
+        margin-bottom: 30px !important;
+        visibility: visible;
+    }
+    #myCarousel {
+        padding-top: 80px;
+    }
+    .youtube-iframe {
+        width: 100%;
+        height: 600px;
+        margin: 150px 0 100px 0;
+        display: inline-block;
+    }
+}
