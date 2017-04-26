@@ -1,0 +1,38 @@
+footer{
+    padding:20px 0;
+    background:#202020;
+    overflow:hidden;
+}
+footer p{
+    color:#FFF;
+    margin:0;
+    font-size:16px;
+    font-weight:300;
+    letter-spacing:1px;
+    margin-top:3px;
+    text-transform:uppercase;
+}
+.footer-social{
+    position:relative;
+    padding:0;
+    font-size:0;
+    list-style:none;
+    text-align:right;
+    margin:-5px;
+}
+.footer-social > li{
+    display:inline-block;
+    *display:inline;
+    *zoom:1;
+}
+.footer-social a{
+    display:block;
+    font-size:20px;
+    padding:5px;
+    color:#FFF;
+    color:rgba(255,255,255,.8);
+    margin-left:20px;
+}
+.footer-social a:hover{
+    color:#FFF;
+}
