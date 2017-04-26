@@ -38,7 +38,7 @@ footer p{
 }
 
 body {
-    family-name："微軟正黑體", "Microsoft JhengHei", "新細明體", "PMingLiU", "細明體", "MingLiU", "標楷體", "DFKai-sb", serif !important;
+    font-family："微軟正黑體", "Microsoft JhengHei", "新細明體", "PMingLiU", "細明體", "MingLiU", "標楷體", "DFKai-sb", serif !important;
 }
 
 .banner {
