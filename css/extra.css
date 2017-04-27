@@ -16,12 +16,18 @@ img.nownews-logo {
     top: 20%;
 }
 
-.video-header {
+#video-header {
     color: #2d6e84;
+    margin-bottom: 25px;
 }
 
-#video-text {
-    margin-top: 20px;
+.video-text {
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: left;
+    letter-spacing: 1px;
+    color: #4a5356;
 }
 
 .menu {
