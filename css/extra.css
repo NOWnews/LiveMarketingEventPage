@@ -69,3 +69,10 @@ pc
         display: inline-block;
     }
 }
+
+@media (max-width: 767px) and (min-width: 431px) {
+    .banner .carousel-caption h1 {
+        /*中螢幕時會破版 先隱藏*/
+        display: none!important;
+    }
+}
