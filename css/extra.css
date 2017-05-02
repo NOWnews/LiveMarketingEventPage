@@ -55,9 +55,9 @@ pc
 @media (min-width: 767px) {
     img.nownews-logo {
         position: absolute;
-        width: 306px;
-        height: 60px;
-        left: -15%;
+        width: 280px;
+        height: 40px;
+        left: -4%;
         top: 20%;
     }
     .menu {
