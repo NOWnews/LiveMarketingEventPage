@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <form method="POST" action="./setting">
+            {%if success %}
+            <h1 style="text-align:center;">
+                {{success}}
+            </h1>
+            {% endif %}
+            <div style="text-align:center;"> 
+                <p>格式壞掉的話參考<a target="_blank" href="./index-data-backup">這裡</a></p>
+                <input type="password" name="password">
+                <input style="font-size:30px;margin-bottom:20px;" type="submit" value="更新">
+            </div>
+
+            <textarea name="setting" style="font-size:15px;margin:0 auto;display:block;" rows="40" cols="120">
+                {{data}}
+            </textarea>
+
+        </form>
+
+    </div>
+</body>
+
+</html>

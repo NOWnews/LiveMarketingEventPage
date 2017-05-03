@@ -1,0 +1,157 @@
+                                  {
+    "page": {
+        "title": "龍談大小事 | 直播 | NOWnews今日新聞"
+    },
+    "header": {
+        "title": "龍談大小事",
+        "logourl": "img/nownews-logo.png"
+    },
+    "block1": {
+        "headline": "5/4晚間七點 潘維剛 即將登場",
+        "youtubeurl": "https://www.youtube-nocookie.com/embed/7CfgWE8f2rU?rel=0&amp;controls=0&amp;showinfo=0?ecver=2&autoplay=1"
+    },
+    "block2": {
+        "headline": "吳敦義 專訪稿件",
+        "articles": [{
+                "title": "兩岸、前瞻到同婚議題　吳敦義妙語連連",
+                "url": "http://www.nownews.com/n/2017/04/28/2488849",
+                "bgimgurl": "img/img7.jpg"
+
+            },
+            {
+                "title": "黨主席進入二輪選舉　吳敦義：意味國民黨重大分裂的開始",
+                "url": "http://www.nownews.com/n/2017/04/27/2501242",
+                "bgimgurl": "img/img8.jpg"
+
+            },
+            {
+                "title": "批前瞻分配不均　吳敦義：藍縣市連碎片都沒有",
+                "url": "http://www.nownews.com/n/2017/04/27/2501211",
+                "bgimgurl": "img/img9.jpg"
+
+            },
+            {
+                "title": "直言兩岸關係　吳敦義：統人沒能力、被統不願意",
+                "url": "http://www.nownews.com/n/2017/04/27/2501167",
+                "bgimgurl": "img/img10.jpg"
+
+            }
+        ]
+    },
+    "block3": {
+        "headline": "《龍談大小事》第一集",
+        "paragraphs": [
+            "國民黨黨主席5月20日選舉，即將選出帶領最大在野黨邁向2018的挑戰。",
+            "主持人唐湘龍以生動的手勢，凌厲的問題，向國民黨黨主席候選人郝龍斌請教；另一位來賓沈富雄，以旁觀者的角色向郝龍斌提出建議和質疑。全場三人唇槍舌劍，你來我往，絕無冷場。", "全場逾一小時的直播節目，以電視的規格，數位的技術，展現另類直播節目該有的氣勢和規格，並以質感的內容，深入的問題分析，鞭辟入裡地傳達理念。歡迎大家鎖定NOWnews今日新聞直播節目「龍談大小事」，給您不一樣的視野。"
+        ],
+        "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;controls=0&amp;showinfo=0?ecver=2"
+    },
+    "block4": {
+        "headline": "",
+        "rows": [{
+                "articles": [{
+                        "title": "朱立倫選北市？ 郝龍斌：勝台北丟新北責任一樣大",
+                        "url": "http://www.nownews.com/n/2017/04/25/2496423",
+                        "bgurl": "img/img1.jpg"
+                    },
+                    {
+                        "title": "藍營縣市長布局　郝龍斌：50歲以上通通不提名",
+                        "url": "http://www.nownews.com/n/2017/04/24/2496129",
+                        "bgurl": "img/img2.jpg"
+                    },
+                    {
+                        "title": "兩岸、能源政策到選戰布局　郝龍斌獨樹一格",
+                        "url": "http://www.nownews.com/n/2017/04/25/2488847",
+                        "bgurl": "img/img3.jpg"
+                    }
+                ]
+            },
+            {
+                "articles": [{
+                        "title": "支持核能發電　郝龍斌：目前無可取代",
+                        "url": "http://www.nownews.com/n/2017/04/24/2496374",
+                        "bgurl": "img/img4.jpg"
+                    },
+                    {
+                        "title": "找回兩岸優勢　郝龍斌：國民黨赴陸設代表處",
+                        "url": "http://www.nownews.com/n/2017/04/24/2496342",
+                        "bgurl": "img/img5.jpg"
+                    },
+                    {
+                        "title": "遭影射對黨不忠貞　郝龍斌：滿可笑的",
+                        "url": "http://www.nownews.com/n/2017/04/24/2496505",
+                        "bgurl": "img/img6.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    "block5": {
+        "headline": "名家論壇",
+        "rows": [{
+                "articles": [{
+                        "title": "名家論壇》唐湘龍／八田與一怎麼跟蔣介石比",
+                        "url": "http://www.nownews.com/n/2017/04/19/2488656",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F8e%2F27%2F8e27e59725d5b35fbfcce70aeafa82a7.jpg"
+                    },
+                    {
+                        "title": "名家論壇》唐湘龍／誰想「讓子彈再飛一會兒」？",
+                        "url": "http://www.nownews.com/n/2017/04/13/2481199",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F0c%2Fa3%2F0ca31af0e58191766005e340740d4265.jpg"
+                    }
+                ]
+            },
+            {
+                "articles": [{
+                        "title": "名家論壇》唐湘龍／習川急會的終極想像",
+                        "url": "http://www.nownews.com/n/2017/04/05/2470086",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F25%2F25%2F2525a1067013e6919573bdb360de59ee.jpg"
+                    },
+                    {
+                        "title": "名家論壇》唐湘龍／李明哲當然會有事",
+                        "url": "http://www.nownews.com/n/2017/03/30/2463512",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F39%2F64%2F3964cd39974b0f46f260ac6a45bf09c5.jpg"
+                    }
+                ]
+            },
+            {
+                "articles": [{
+                        "title": "名家論壇》唐湘龍／民進黨的政治躁鬱症又要發作了",
+                        "url": "http://www.nownews.com/n/2017/03/22/2451133",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F34%2Fb3%2F34b30bd51d22636d49b4e82701ae48c7.png"
+                    },
+                    {
+                        "title": "名家論壇》唐湘龍／這是對“陸生”的“逐客令”",
+                        "url": "http://www.nownews.com/n/2017/03/16/2443285",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd4%2Fc2%2Fd4c2bf5b40752135af414726186d14dd.jpg"
+                    }
+                ]
+            },
+            {
+                "articles": [{
+                        "title": "名家論壇》唐湘龍／如何解讀張志軍？",
+                        "url": "http://www.nownews.com/n/2017/03/08/2432449",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F51%2F0a%2F510ab7eb0cac5ddbfdbef10a3f6e7f64.jpg"
+                    },
+                    {
+                        "title": "名家論壇》唐湘龍／二二八：歷史的亂葬崗和盜墓人",
+                        "url": "http://www.nownews.com/n/2017/03/01/2422800",
+                        "bgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F6f%2F43%2F6f43eafe2cf129b64e3c03d110211638.jpg"
+                    }
+                ]
+            }
+
+        ]
+    }
+
+
+}
+            
+            
+            
+            
+            
+            
+            
+            
+            
