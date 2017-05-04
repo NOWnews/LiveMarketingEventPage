@@ -12,6 +12,7 @@
         <link rel="shortcut icon" type="image/ico" href="{{head.faviconurl}}"/>
 
         <!-- SEO -->
+        <meta name="google-site-verification" content="IpBBA_rIUzM0_7nqKskLksd7Rg-aFVbhQyD7DKZT-Ac" />
         <!-- for facebook use1-->
         <meta property="fb:app_id" content="132863386747341">
         <meta property="fb:pages" content="102884532662">
@@ -161,9 +162,9 @@
                 <div class="h-divider">
                     <!-- <div class="icon1"><i class="fw-icon-star"></i></div> -->
                 </div>
-                
+
                 <div class="row-fluid">
-                    {% for article in block2.articles %}                    
+                    {% for article in block2.articles %}
                     <div class="span3">
                         <a target="_blank" href="{{article.url}}">
                             <div class="block" style="background-image:url({{article.bgimgurl}});">
@@ -175,9 +176,9 @@
                         </a>
                     </div>
                     {% endfor %}
-                  
+
                 </div>
-                
+
             </div>
         </div>
 
@@ -190,7 +191,7 @@
                     <div class="span6">
                           <div class="center-block">
                         <h1 id="video-header" >{{block3.headline}}</h1>
-                        {% for p in block3.paragraphs %}                    
+                        {% for p in block3.paragraphs %}
                         <p class="video-text">
                             {{p}}
                         </p>
@@ -263,7 +264,7 @@
                         {% endfor %}
                     </ul>
                 </div>
-            {% endfor %} 
+            {% endfor %}
             </div>
         </div>
         <!-- <div class="featured-images">
