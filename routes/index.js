@@ -17,6 +17,10 @@ router.get('/index-data-backup', function (req, res, next) {
     })
 });
 
+router.get('/robots.txt', function (req, res, next) {
+    return res.sendFile('robots.txt', { root: '.' });
+});
+
 router.get('/setting', function (req, res, next) {
     if (req.query.user == 87978775 ){
         fs.readFile(path.resolve(__dirname, '../', 'index-data.json'), (err, data) => {
