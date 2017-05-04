@@ -18,13 +18,17 @@ router.get('/index-data-backup', function (req, res, next) {
 });
 
 router.get('/setting', function (req, res, next) {
-    fs.readFile(path.resolve(__dirname, '../', 'index-data.json'), (err, data) => {
-      res.render('setting.html', {
-        "data": data.toString()
-      });
+    if (req.query.user == 87978775 ){
+        fs.readFile(path.resolve(__dirname, '../', 'index-data.json'), (err, data) => {
+          res.render('setting.html', {
+            "data": data.toString()
+          });
 
+        })
+        } else {
+            res.redirect('http://dragon.nownews.com/');
+        }
     })
-  })
   .post('/setting', function (req, res, next) {
     if (req.body.password !== "28331543") {
 
@@ -37,7 +41,7 @@ router.get('/setting', function (req, res, next) {
         })
       return;
     }
-    
+
     fs.writeFile(path.resolve(__dirname, '../', 'index-data.json'), req.body.setting, function (err) {
       if (err) throw err;
       fs.readFile(path.resolve(__dirname, '../', 'index-data.json'), (err, data) => {
