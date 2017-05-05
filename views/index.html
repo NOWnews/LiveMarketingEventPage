@@ -152,7 +152,66 @@
             </div>
         </div>
 
-        <div class="featured-blocks">
+        <div class="featured-heading" style="background-color:#f9b701;">
+            <div class="container">
+                <ul class="grid effect-8" id="grid">
+                    <li>
+                        <h1>{{block6.headline}}</h1>
+                        <!--<h2 style="visibility: hidden;">Integer luctus vestibulum orci velpo</h2>-->
+                    </li>
+                </ul>
+
+            {% for row in block6.rows%}
+                <div class="row-fluid">
+                    <ul class="grid effect-3" id="grid">
+                        {% for article in row.articles %}
+                            <li class="span6">
+                                <a target="_blank" href="{{article.url}}" style="background-image: url({{article.bgurl}});">
+                                    <div class="block">
+                                        <h1 class="title">{{article.title}}</h1>
+                                    </div>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+        
+        <div class="featured-blocks" style="background-color:#0375b4;">
+            <div class="container">
+                <ul class="grid effect-8" id="grid">
+                    <li>
+                        <h1>{{block7.headline}}</h1>
+                        <!-- <h2>一些介紹文</h2> -->
+                    </li>
+                </ul>
+
+                <div class="h-divider">
+                    <!-- <div class="icon1"><i class="fw-icon-star"></i></div> -->
+                </div>
+
+                <div class="row-fluid">
+                    {% for article in block7.articles %}
+                    <div class="span3">
+                        <a target="_blank" href="{{article.url}}">
+                            <div class="block" style="background-image:url({{article.bgimgurl}});">
+                                <div class="icon">
+                                    <!-- <i class="fw-icon-user"></i> -->
+                                </div>
+                                <h1>{{article.title}}</h1>
+                            </div>
+                        </a>
+                    </div>
+                    {% endfor %}
+
+                </div>
+
+            </div>
+        </div>
+        
+        <div class="featured-blocks"  style="background-color:#007849;">
             <div class="container">
                 <ul class="grid effect-8" id="grid">
                     <li>
@@ -183,6 +242,7 @@
 
             </div>
         </div>
+
 
         <div class="featured-images">
 
@@ -252,6 +312,19 @@
                 <!-- <div class="h-divider">
                     <div class="icon1"><i class="fw-icon-star"></i></div>
                 </div> -->
+
+                 <div class="row-fluid">
+                    <ul class="grid effect-3" id="grid">
+                            <li class="span12">
+                                <a target="_blank" href="http://www.nownews.com/n/2017/05/04/2508903" style="background-image: url(img/img-0504-5.jpeg);background-position: 30% 20%;">
+                                    <div class="block">
+                                        <h1 class="title">名家論壇》唐湘龍／維持現狀：蔡總統為什麼這麼糟？</h1>
+                                    </div>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+
             {% for row in block5.rows%}
                 <div class="row-fluid">
                     <ul class="grid effect-3" id="grid">
