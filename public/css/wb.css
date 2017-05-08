@@ -75,14 +75,19 @@ body {
     font-size: 20px;
 }
 
-@media (max-width: 769px) and (min-width: 480px) {}
 
 
 /* 精彩回顧*/
 
 .featured-blocks #grid h1 {
     color: #fff9ea;
-    margin: 30px 60px 0;
+    font-size:30px;
+}
+
+@media(min-width: 480px) {
+    .featured-blocks #grid h1 {
+        font-size:44px;
+    }
 }
 
 @media (max-width: 480px) {
