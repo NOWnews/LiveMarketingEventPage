@@ -7,6 +7,14 @@
 /*
 small device
 */
+.featured-blocks .container .row h1{
+    font-size:34px;
+    margin-top:35px;
+    color:white;
+}
+.featured-images {
+    padding-bottom:0;
+}
 
 img.nownews-logo {
     position: absolute;
@@ -53,6 +61,17 @@ pc
 */
 
 @media (min-width: 767px) {
+
+    .featured-blocks .container .row h1{
+        font-size:44px;
+    margin:0 0 50px 0;
+    color:white;
+    }
+
+    .featured-blocks .block {
+    padding: 0;
+    }
+
     img.nownews-logo {
         position: absolute;
         width: 280px;

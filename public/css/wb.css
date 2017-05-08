@@ -51,30 +51,30 @@ body {
 
 /* 專訪稿件 */
 .featured-blocks .row-fluid .span3 .block {
+    padding:0!important;
     height: 280px;
     background-size: cover;
     background-position: center;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 
 .featured-blocks .row-fluid .span3 .block h1 {
     background: rgba(0, 0, 0, 0.7);
     padding: 15px;
-    margin-top: 80px;
+    margin-top: 40%;
     margin-bottom: 20px;
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
 }
 @media (max-width: 769px) and (min-width: 480px){
-    .featured-blocks .row-fluid .span3 .block h1 {
-        margin-top: 0px;
-     }
+    
 }
 
 
 /* 精彩回顧*/
 .featured-blocks #grid h1 {
     color: #fff9ea;
+    margin-top: 30px 60px 0;
 }
 
 @media (max-width: 480px){
