@@ -7,7 +7,7 @@
         "logourl": "img/nownews-logo.png"
     },
     "head": {
-        "headline": "5/9 晚間七點 韓國瑜 即將登場",
+        "headline": "韓國瑜、詹啟賢專訪即將登場",
         "youtubeurl": "https://www.youtube.com/embed/oI9ZlWoYi_4"
     },
     "block3": {
@@ -41,17 +41,25 @@
 
         ]
     },
-    "blocks": [{
-            "top": {
-                "open":false,
-                "style": "background-color:#0375b4;",
-                "headline": "《龍談大小事》第一集",
-                "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
-            },
-            "bottom": {
-                "style": "background-color:#0375b4;",
-                "headline": "潘維剛新聞",
-                "articles": [{
+    "blocks": [],
+    "blocks2": [
+        {
+        "background":"0375B4",
+        "video": {
+            "headlineColor":"f7f3ef",
+            "textColor":"f7f3ef",
+            "open":true,
+            "headline": "《龍談大小事》第三集",
+            "paragraphs": [
+                "《NOWnews今日新聞》以多元視角剖析時事，致力揭發真相、打造公義社會。由NOWnews新開闢的《龍談大小事》節目由資深媒體人唐湘龍主持，邀請各界領袖、專家學者，共同探討國內外政局、當今社會熱門議題，並邀請全球華人線上參與，即時互動，與節目來賓暢談全球華人大小事。",
+                "國民黨前立委潘維剛選在五四這特別的日子登上龍談大小事節目，跟主持人唐湘龍暢談她參選國民黨黨主席的理念。潘維剛表示國民黨選舉大敗，有要檢討的地方，但談到兩岸政策，她表示和平才是才是最大的立基，兩岸問題，國民黨一定做的會比民進黨好。潘維剛表示，為了改善黨員冷淡的情形，她才出來參選，希望能把國民黨的人才和青年重新找回來，以及再次得到人民支持，使大家不再對國民黨感到心冷，讓該黨能夠發揮在野黨監督的力量，重新贏得民心。",
+                "潘維剛對黨的熱情，都在《龍談大小事》。"
+            ],
+            "youtubeurl": "https://www.youtube-nocookie.com/embed/i7bPBqCZ6As?rel=0&amp;showinfo=0?ecver=2"
+        },
+        "headline": "專訪立法委員潘維剛",
+        "headlineColor":"ffffff",
+        "articles": [{
                 "title": "龍談大小事》不一樣的黨主席　潘維剛要當「黨員側翼」",
                 "url": "http://www.nownews.com/n/2017/05/05/2488925",
                 "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F6f%2Fb6%2F6fb6264bb71774f47cab3d73f7c2d299.jpg"
@@ -76,19 +84,24 @@
 
             }
         ]
-            }
+    },
+    {
+        "background":"2D6E84",
+        "video": {
+            "headlineColor":"ffffff",
+            "textColor":"ffffff",
+            "open":true,
+            "headline": "《龍談大小事》第二集",
+            "paragraphs": [
+                "國民黨主席候選人吳敦義27日接受《NOWnews今日新聞-龍談大小事》專訪，談到兩岸關係，他的看法跟多數國民黨人一致，目前台灣的兩岸現狀是「統人沒能力、被統不願意」，目前統一或台獨都不是選項。",
+                "對於同性婚姻的立場，他表示，同性或雙性戀者希望維持婚姻、財務上互相關照、傳承，只要不干擾社會安定，用專法來給與保障權益與空間，會是兩全其美的方法。",
+                "吳敦義與主持人唐湘龍間中肯的對談，無論對兩岸大局或是同婚議題都侃侃而談，只有在NOWnews今日新聞直播節目「龍談大小事」，才能有最完整、最清晰的新聞論點。"
+            ],
+            "youtubeurl": "https://www.youtube-nocookie.com/embed/7CfgWE8f2rU?rel=0&amp;showinfo=0?ecver=2"
         },
-        {
-            "top": {
-                "open":false,
-                "style": "background-color:#2d6e84;",
-                "headline": "《龍談大小事》第一集",
-                "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
-            },
-            "bottom": {
-                "style": "background-color:#2d6e84;",
-                "headline": "專訪前副總統吳敦義",
-                "articles": [{
+        "headline": "專訪前副總統吳敦義",
+        "headlineColor":"ffffff",
+        "articles": [{
                         "title": "兩岸、前瞻到同婚議題　吳敦義妙語連連",
                         "url": "http://www.nownews.com/n/2017/04/28/2488849",
                         "bgimgurl": "img/img7.jpg"
@@ -113,11 +126,13 @@
 
                     }
                 ]
-            }
-        }
-    ],
-    "block2": {
+    },
+    {
+        "background":"f9b701",
         "video": {
+            "headlineColor":"2d6e84",
+            "textColor":"4a5356",
+            "open":true,
             "headline": "《龍談大小事》第一集",
             "paragraphs": [
                 "國民黨黨主席5月20日選舉，即將選出帶領最大在野黨邁向2018的挑戰。",
@@ -126,6 +141,7 @@
             "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
         },
         "headline": "專訪國民黨副主席郝龍斌",
+        "headlineColor":"2d6e84",
         "articles": [{
                 "title": "朱立倫選北市？ 郝龍斌：勝台北丟新北責任一樣大",
                 "url": "hhttp://www.nownews.com/n/2017/04/25/2496423",
@@ -151,7 +167,8 @@
 
             }
         ]
-    },
+    }
+    ],
     "block1": {
         "headline": "名家論壇",
         "rows": [{

@@ -1,4 +1,4 @@
-                                                {
+{
     "page": {
         "title": "龍談大小事 | 直播 | NOWnews今日新聞"
     },
@@ -6,87 +6,242 @@
         "title": "龍談大小事",
         "logourl": "img/nownews-logo.png"
     },
-    "block1": {
-        "headline": "115/4晚間七點 潘維剛 即將登場",
-        "youtubeurl": "https://www.youtube-nocookie.com/embed/7CfgWE8f2rU?rel=0&amp;controls=0&amp;showinfo=0?ecver=2&autoplay=1"
-    },
-    "block2": {
-        "headline": "吳敦義 專訪稿件",
-        "articles": [{
-                "title": "兩岸、前瞻到同婚議題　吳敦義妙語連連",
-                "url": "http://www.nownews.com/n/2017/04/28/2488849",
-                "bgimgurl": "img/img7.jpg"
-
-            },
-            {
-                "title": "黨主席進入二輪選舉　吳敦義：意味國民黨重大分裂的開始",
-                "url": "http://www.nownews.com/n/2017/04/27/2501242",
-                "bgimgurl": "img/img8.jpg"
-
-            },
-            {
-                "title": "批前瞻分配不均　吳敦義：藍縣市連碎片都沒有",
-                "url": "http://www.nownews.com/n/2017/04/27/2501211",
-                "bgimgurl": "img/img9.jpg"
-
-            },
-            {
-                "title": "直言兩岸關係　吳敦義：統人沒能力、被統不願意",
-                "url": "http://www.nownews.com/n/2017/04/27/2501167",
-                "bgimgurl": "img/img10.jpg"
-
-            }
-        ]
+    "head": {
+        "headline": "5/9 晚間七點 韓國瑜 即將登場",
+        "youtubeurl": "https://www.youtube.com/embed/oI9ZlWoYi_4"
     },
     "block3": {
-        "headline": "《龍談大小事》第一集",
-        "paragraphs": [
-            "國民黨黨主席5月20日選舉，即將選出帶領最大在野黨邁向2018的挑戰。",
-            "主持人唐湘龍以生動的手勢，凌厲的問題，向國民黨黨主席候選人郝龍斌請教；另一位來賓沈富雄，以旁觀者的角色向郝龍斌提出建議和質疑。全場三人唇槍舌劍，你來我往，絕無冷場。", "全場逾一小時的直播節目，以電視的規格，數位的技術，展現另類直播節目該有的氣勢和規格，並以質感的內容，深入的問題分析，鞭辟入裡地傳達理念。歡迎大家鎖定NOWnews今日新聞直播節目「龍談大小事」，給您不一樣的視野。"
-        ],
-        "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;controls=0&amp;showinfo=0?ecver=2"
-    },
-    "block4": {
-        "headline": "",
+        "headline": "即將登場人物",
         "rows": [{
                 "articles": [{
-                        "title": "朱立倫選北市？ 郝龍斌：勝台北丟新北責任一樣大",
-                        "url": "http://www.nownews.com/n/2017/04/25/2496423",
-                        "bgurl": "img/img1.jpg"
+                        "title": "宣傳影片力挺 蕭萬長：詹啟賢能在2020勝選",
+                        "url": "http://www.nownews.com/n/2017/05/03/2507429",
+                        "bgurl": "img/img-0504-1.png"
                     },
                     {
-                        "title": "藍營縣市長布局　郝龍斌：50歲以上通通不提名",
-                        "url": "http://www.nownews.com/n/2017/04/24/2496129",
-                        "bgurl": "img/img2.jpg"
-                    },
-                    {
-                        "title": "兩岸、能源政策到選戰布局　郝龍斌獨樹一格",
-                        "url": "http://www.nownews.com/n/2017/04/25/2488847",
-                        "bgurl": "img/img3.jpg"
+                        "title": "艾普羅民調 國民黨主席選舉吳洪郝領先",
+                        "url": "http://www.nownews.com/n/2017/05/03/2507616",
+                        "bgurl": "img/img-0504-2.jpeg"
                     }
                 ]
             },
             {
                 "articles": [{
-                        "title": "支持核能發電　郝龍斌：目前無可取代",
-                        "url": "http://www.nownews.com/n/2017/04/24/2496374",
-                        "bgurl": "img/img4.jpg"
+                        "title": "網路大數據分析：洪秀柱聲量大、韓國瑜正評高",
+                        "url": "http://www.nownews.com/n/2017/05/04/2508315",
+                        "bgurl": "img/img-0504-3.png"
                     },
                     {
-                        "title": "找回兩岸優勢　郝龍斌：國民黨赴陸設代表處",
-                        "url": "http://www.nownews.com/n/2017/04/24/2496342",
-                        "bgurl": "img/img5.jpg"
-                    },
-                    {
-                        "title": "遭影射對黨不忠貞　郝龍斌：滿可笑的",
-                        "url": "http://www.nownews.com/n/2017/04/24/2496505",
-                        "bgurl": "img/img6.jpg"
+                        "title": "打倒綠色恐怖 潘維剛喊組復仇者聯盟",
+                        "url": "http://www.nownews.com/n/2017/04/10/2476978",
+                        "bgurl": "img/img-0504-4.jpeg"
                     }
                 ]
             }
+
         ]
     },
-    "block5": {
+    "blocks": [{
+            "top": {
+                "open":false,
+                "style": "background-color:#0375b4;",
+                "headline": "《龍談大小事》第一集",
+                "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
+            },
+            "bottom": {
+                "style": "background-color:#0375b4;",
+                "headline": "潘維剛新聞",
+                "articles": [{
+                "title": "龍談大小事》不一樣的黨主席　潘維剛要當「黨員側翼」",
+                "url": "http://www.nownews.com/n/2017/05/05/2488925",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F6f%2Fb6%2F6fb6264bb71774f47cab3d73f7c2d299.jpg"
+
+            },
+            {
+                "title": "潘維剛籲候選人應立誓　奪不下三都應辭職黨主席",
+                "url": "http://www.nownews.com/n/2017/05/04/2509651",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fa8%2F5c%2Fa85ceb7ecc469738a19400bd3ab02350.jpg"
+
+            },
+            {
+                "title": "同婚立特別法優於普通法　潘維剛：可以坐下來溝通",
+                "url": "http://www.nownews.com/n/2017/05/04/2509631",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F97%2F7b%2F977b828c9e8b0feb0d062e01f1ec92dc.jpg"
+
+            },
+            {
+                "title": "蔡英文拋兩岸「三新論」　潘維剛轟選舉語言",
+                "url": "http://www.nownews.com/n/2017/05/04/2509573",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F6f%2Fb6%2F6fb6264bb71774f47cab3d73f7c2d299.jpg"
+
+            }
+        ]
+            }
+        },
+        {
+            "top": {
+                "open":false,
+                "style": "background-color:#2d6e84;",
+                "headline": "《龍談大小事》第一集",
+                "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
+            },
+            "bottom": {
+                "style": "background-color:#2d6e84;",
+                "headline": "專訪前副總統吳敦義",
+                "articles": [{
+                        "title": "兩岸、前瞻到同婚議題　吳敦義妙語連連",
+                        "url": "http://www.nownews.com/n/2017/04/28/2488849",
+                        "bgimgurl": "img/img7.jpg"
+
+                    },
+                    {
+                        "title": "黨主席進入二輪選舉　吳敦義：意味國民黨重大分裂的開始",
+                        "url": "http://www.nownews.com/n/2017/04/27/2501242",
+                        "bgimgurl": "img/img8.jpg"
+
+                    },
+                    {
+                        "title": "批前瞻分配不均　吳敦義：藍縣市連碎片都沒有",
+                        "url": "http://www.nownews.com/n/2017/04/27/2501211",
+                        "bgimgurl": "img/img9.jpg"
+
+                    },
+                    {
+                        "title": "直言兩岸關係　吳敦義：統人沒能力、被統不願意",
+                        "url": "http://www.nownews.com/n/2017/04/27/2501167",
+                        "bgimgurl": "img/img10.jpg"
+
+                    }
+                ]
+            }
+        }
+    ],
+    "blocks2": [
+        {
+        "background":"0375B4",
+        "video": {
+            "headlineColor":"f7f3ef",
+            "textColor":"f7f3ef",
+            "open":true,
+            "headline": "《龍談大小事》第一集",
+            "paragraphs": [
+                "國民黨黨主席5月20日選舉，即將選出帶領最大在野黨邁向2018的挑戰。",
+                "主持人唐湘龍以生動的手勢，凌厲的問題，向國民黨黨主席候選人郝龍斌請教；另一位來賓沈富雄，以旁觀者的角色向郝龍斌提出建議和質疑。全場三人唇槍舌劍，你來我往，絕無冷場。", "全場逾一小時的直播節目，以電視的規格，數位的技術，展現另類直播節目該有的氣勢和規格，並以質感的內容，深入的問題分析，鞭辟入裡地傳達理念。歡迎大家鎖定NOWnews今日新聞直播節目「龍談大小事」，給您不一樣的視野。"
+            ],
+            "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
+        },
+        "headline": "專訪國民黨副主席郝龍斌",
+        "headlineColor":"ffffff",
+        "articles": [{
+                "title": "朱立倫選北市？ 郝龍斌：勝台北丟新北責任一樣大",
+                "url": "hhttp://www.nownews.com/n/2017/04/25/2496423",
+                "bgimgurl": "img/img1.jpg"
+
+            },
+            {
+                "title": "藍營縣市長布局　郝龍斌：50歲以上通通不提名",
+                "url": "http://www.nownews.com/n/2017/04/24/2496129",
+                "bgimgurl": "img/img2.jpg"
+
+            },
+            {
+                "title": "兩岸、能源政策到選戰布局　郝龍斌獨樹一格",
+                "url": "http://www.nownews.com/n/2017/04/25/2488847",
+                "bgimgurl": "img/img3.jpg"
+
+            },
+            {
+                "title": "支持核能發電　郝龍斌：目前無可取代",
+                "url": "http://www.nownews.com/n/2017/04/24/2496374",
+                "bgimgurl": "img/img4.jpg"
+
+            }
+        ]
+    },
+    {
+        "background":"2D6E84",
+        "video": {
+            "headlineColor":"ffffff",
+            "textColor":"ffffff",
+            "open":true,
+            "headline": "《龍談大小事》第一集2",
+            "paragraphs": [
+                "國民黨黨主席5月20日選舉，即將選出帶領最大在野黨邁向2018的挑戰。",
+                "主持人唐湘龍以生動的手勢，凌厲的問題，向國民黨黨主席候選人郝龍斌請教；另一位來賓沈富雄，以旁觀者的角色向郝龍斌提出建議和質疑。全場三人唇槍舌劍，你來我往，絕無冷場。", "全場逾一小時的直播節目，以電視的規格，數位的技術，展現另類直播節目該有的氣勢和規格，並以質感的內容，深入的問題分析，鞭辟入裡地傳達理念。歡迎大家鎖定NOWnews今日新聞直播節目「龍談大小事」，給您不一樣的視野。"
+            ],
+            "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
+        },
+        "headline": "專訪國民黨副主席郝龍斌",
+        "headlineColor":"ffffff",
+        "articles": [{
+                "title": "朱立倫選北市？ 郝龍斌：勝台北丟新北責任一樣大",
+                "url": "hhttp://www.nownews.com/n/2017/04/25/2496423",
+                "bgimgurl": "img/img1.jpg"
+
+            },
+            {
+                "title": "藍營縣市長布局　郝龍斌：50歲以上通通不提名",
+                "url": "http://www.nownews.com/n/2017/04/24/2496129",
+                "bgimgurl": "img/img2.jpg"
+
+            },
+            {
+                "title": "兩岸、能源政策到選戰布局　郝龍斌獨樹一格",
+                "url": "http://www.nownews.com/n/2017/04/25/2488847",
+                "bgimgurl": "img/img3.jpg"
+
+            },
+            {
+                "title": "支持核能發電　郝龍斌：目前無可取代",
+                "url": "http://www.nownews.com/n/2017/04/24/2496374",
+                "bgimgurl": "img/img4.jpg"
+
+            }
+        ]
+    },
+    {
+        "background":"f9b701",
+        "video": {
+            "headlineColor":"2d6e84",
+            "textColor":"4a5356",
+            "open":true,
+            "headline": "《龍談大小事》第一集",
+            "paragraphs": [
+                "國民黨黨主席5月20日選舉，即將選出帶領最大在野黨邁向2018的挑戰。",
+                "主持人唐湘龍以生動的手勢，凌厲的問題，向國民黨黨主席候選人郝龍斌請教；另一位來賓沈富雄，以旁觀者的角色向郝龍斌提出建議和質疑。全場三人唇槍舌劍，你來我往，絕無冷場。", "全場逾一小時的直播節目，以電視的規格，數位的技術，展現另類直播節目該有的氣勢和規格，並以質感的內容，深入的問題分析，鞭辟入裡地傳達理念。歡迎大家鎖定NOWnews今日新聞直播節目「龍談大小事」，給您不一樣的視野。"
+            ],
+            "youtubeurl": "https://www.youtube-nocookie.com/embed/iGLQVdiLUVc?rel=0&amp;showinfo=0?ecver=2"
+        },
+        "headline": "專訪國民黨副主席郝龍斌",
+        "headlineColor":"ffffff",
+        "articles": [{
+                "title": "朱立倫選北市？ 郝龍斌：勝台北丟新北責任一樣大",
+                "url": "hhttp://www.nownews.com/n/2017/04/25/2496423",
+                "bgimgurl": "img/img1.jpg"
+
+            },
+            {
+                "title": "藍營縣市長布局　郝龍斌：50歲以上通通不提名",
+                "url": "http://www.nownews.com/n/2017/04/24/2496129",
+                "bgimgurl": "img/img2.jpg"
+
+            },
+            {
+                "title": "兩岸、能源政策到選戰布局　郝龍斌獨樹一格",
+                "url": "http://www.nownews.com/n/2017/04/25/2488847",
+                "bgimgurl": "img/img3.jpg"
+
+            },
+            {
+                "title": "支持核能發電　郝龍斌：目前無可取代",
+                "url": "http://www.nownews.com/n/2017/04/24/2496374",
+                "bgimgurl": "img/img4.jpg"
+
+            }
+        ]
+    }
+    ],
+    "block1": {
         "headline": "名家論壇",
         "rows": [{
                 "articles": [{
@@ -146,6 +301,3 @@
 
 
 }
-            
-            
-            
