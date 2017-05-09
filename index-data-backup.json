@@ -13,7 +13,17 @@
     "facebook":{
         "url":"http://dragon.nownews.com/",
         "title":"龍談大小事 | 直播 | NOWnews今日新聞",
-        "description":"韓國瑜、詹啟賢專訪即將登場"
+        "description":"韓國瑜、詹啟賢專訪即將登場",
+        "imageUrl":"http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F71%2F29%2F7129052d509e71f5a5bf78d744dea0f6.jpg",
+        "keywords":"郝龍斌,吳敦義,NOWnews,今日新聞",
+        "publisher":"https://www.facebook.com/nownews",
+        "author":"https://www.facebook.com/nownews"
+    },
+    "googlePlus":{
+        "url":"http://dragon.nownews.com/",
+        "name":"龍談大小事 | 直播 | NOWnews今日新聞",
+        "description":"韓國瑜、詹啟賢專訪即將登場",
+        "imageUrl":"http://s.nownews.com/71/29/7129052d509e71f5a5bf78d744dea0f6.jpg"
     },
     "block3": {
         "headline": "即將登場人物",
