@@ -169,6 +169,8 @@
         </div>
     </div>
 
+    <!-- block3 -->
+    {% if block3.open %}
     <div class="featured-heading" style="background-color:#f9b701;">
         <div class="container">
             <ul class="grid effect-8" id="grid">
@@ -195,6 +197,8 @@
             {% endfor %}
         </div>
     </div>
+    {% endif %}
+    <!--block3 end-->
 
     <!--blocks-->
     {% for block in blocks %} {% if block.top.open%}
@@ -239,8 +243,7 @@
     <!--blocks end-->
 
     <!--block2-->
-    {% for block in blocks2 %} 
-        {% if block.video.open %}
+    {% for block in blocks2 %} {% if block.video.open %}
     <div class="featured-images" style="background-color:#{{block.background}}">
         <div class="container">
             <div class="row">
@@ -261,7 +264,7 @@
             </div>
         </div>
     </div>
-    
+
     {% endif %}
 
     <div class="featured-blocks" style="background-color:#{{block.background}}">

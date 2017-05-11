@@ -26,6 +26,7 @@
         "imageUrl":"http://s.nownews.com/71/29/7129052d509e71f5a5bf78d744dea0f6.jpg"
     },
     "block3": {
+        "open":false,
         "headline": "即將登場人物",
         "rows": [{
                 "articles": [{
