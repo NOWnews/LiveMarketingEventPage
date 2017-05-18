@@ -1,4 +1,4 @@
-{
+                                                                                                                                                                                                {
     "page": {
         "title": "龍談大小事 | 直播 | NOWnews今日新聞"
     },
@@ -7,8 +7,8 @@
         "logourl": "img/nownews-logo.png"
     },
     "head": {
-        "headline": "韓國瑜、詹啟賢專訪即將登場",
-        "youtubeurl": "https://www.youtube.com/embed/oI9ZlWoYi_4"
+        "headline": "5/18國民黨主席洪秀柱  即將登場",
+        "youtubeurl": "https://www.youtube.com/embed/GjeX4Q4tTBE?autoplay=1"
     },
     "facebook":{
         "url":"http://dragon.nownews.com/",
@@ -18,6 +18,11 @@
         "keywords":"郝龍斌,吳敦義,NOWnews,今日新聞",
         "publisher":"https://www.facebook.com/nownews",
         "author":"https://www.facebook.com/nownews"
+    },
+    "facebookShare":{
+        "open":true,
+        "backgroundColor":"fff",
+        "videoId":"10154909265702663"
     },
     "googlePlus":{
         "url":"http://dragon.nownews.com/",
@@ -57,7 +62,83 @@
 
         ]
     },
-    "blocks": [],
+    "blocks": [
+{
+            "top": {
+                "open":true,
+                "style": "background-color:#585858;",
+                "headline": "專訪國民黨副主席詹啟賢",
+                "youtubeurl": "https://www.youtube-nocookie.com/embed/QrKliJHnnLk?rel=0&amp;showinfo=0?ecver=2"
+            },
+            "bottom": {
+                "style": "background-color:#585858;",
+                "headline": "",
+                "articles": [{
+                "title": "專訪／選戰倒數　詹啟賢籲勿操作省籍",
+                "url": "http://www.nownews.com/n/2017/05/12/2519029",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd0%2Fd2%2Fd0d2f184265f748bd421e6078f74de13.jpg"
+
+            },
+            {
+                "title": "專訪／2018扛責　詹啟賢不一樣的思維",
+                "url": "http://www.nownews.com/n/2017/05/12/2519081",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd4%2Fe6%2Fd4e630e85b01b733422b7a6d43ff0e04.jpg"
+
+            },
+            {
+                "title": "專訪／詹啟賢：爭取肯定　不搭郭台銘順風車",
+                "url": "http://www.nownews.com/n/2017/05/12/2519036",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F5e%2F59%2F5e592dfa477ed4308bb87398fdfe27c2.jpg"
+
+            },
+            {
+                "title": "專訪／談棄保　詹啟賢：反民主又低估黨員",
+                "url": "http://www.nownews.com/n/2017/05/12/2519058",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fad%2F6e%2Fad6e02b1325daca6a1c8b51fc78a380a.jpg"
+
+            }
+        ]
+            }
+        }
+,
+{
+            "top": {
+                "open":true,
+                "style": "background-color:#558C89;",
+                "headline": "專訪國民黨主席候選人韓國瑜",
+                "youtubeurl": "https://www.youtube-nocookie.com/embed/gb6456GTEbM?rel=0&amp;showinfo=0?ecver=2"
+            },
+            "bottom": {
+                "style": "background-color:#558C89;",
+                "headline": "",
+                "articles": [{
+                "title": "面對棄保傳聞　韓國瑜：堅定相信支持者",
+                "url": "http://www.nownews.com/n/2017/05/10/2515918",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fdc%2F77%2Fdc77046719a8fd8633c4edcbac46ffbc.jpg"
+
+            },
+            {
+                "title": "專訪／與綠爭青年票　韓國瑜的障礙有這些",
+                "url": "http://www.nownews.com/n/2017/05/10/2515939",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd9%2F9c%2Fd99c615760dac20ef51ef77b46058cdf.jpg"
+
+            },
+            {
+                "title": "專訪／未來戰將？韓國瑜笑稱：像進了人力銀行",
+                "url": "http://www.nownews.com/n/2017/05/10/2515822",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2F33%2F35%2F3335b199be3cd9174c488f3e5855745e.jpg"
+
+            },
+            {
+                "title": "專訪／評價馬英九　韓國瑜質疑633",
+                "url": "http://www.nownews.com/n/2017/05/10/2515886",
+                "bgimgurl": "http://imgapi.nownews.com/?w=640&q=60&src=http%3A%2F%2Fs.nownews.com%2Fbe%2F21%2Fbe212b20968f44c99a0021315ee47d03.jpg"
+
+            }
+        ]
+            }
+        }
+],
     "blocks2": [
         {
         "background":"0375B4",
@@ -73,7 +154,7 @@
             ],
             "youtubeurl": "https://www.youtube-nocookie.com/embed/i7bPBqCZ6As?rel=0&amp;showinfo=0?ecver=2"
         },
-        "headline": "專訪立法委員潘維剛",
+        "headline": "專訪國民黨主席候選人潘維剛",
         "headlineColor":"ffffff",
         "articles": [{
                 "title": "龍談大小事》不一樣的黨主席　潘維剛要當「黨員側翼」",
@@ -245,3 +326,14 @@
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
