@@ -153,16 +153,18 @@
                     <div class="item active">
                         <div class="carousel-caption">
                             <!-- <h2>4/27晚間七點 邀請 吳敦義 直播專訪</h2><br> -->
+
+
+                            <h1>{{head.headline}}</h1>
+
                             {% if facebookShare.open %}
                             <!-- Facebook Share -->
-                             <div style="width: 550px;background: #{{facebookShare.backgroundColor}};padding: 10px 0;margin: 10px auto;">
+                             <div style="width: 550px;background: {{facebookShare.backgroundColor}};padding: 10px 0;margin: 10px auto;">
                                 <div class="fb-share-button" data-href="https://www.facebook.com/nownews/videos/{{facebookShare.videoId}}/" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fnownews%2Fvideos%2F10154909265702663%2F&amp;src=sdkpreparse">分享</a></div>
                                 <div class="fb-like" data-href="https://www.facebook.com/nownews/" data-layout="standard" data-action="recommend" data-size="large" data-show-faces="false" data-share="false"></div>
                             </div>
                             <!-- End Facebook Share -->
                             {% endif %}
-
-                            <h1>{{head.headline}}</h1>
                             <div class="shadow"><img src="img/shadow.png" alt=""></div>
                         </div>
                         <!--<iframe style="margin:250px 0 100px 0; display:inline-block;" width="100%" height="315" src="https://www.youtube.com/embed/K9zeVCsgFtU" frameborder="0" allowfullscreen></iframe>-->

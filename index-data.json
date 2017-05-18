@@ -21,7 +21,7 @@
     },
     "facebookShare":{
         "open":true,
-        "backgroundColor":"fff",
+        "backgroundColor":"rgba(255,255,255,0.7)",
         "videoId":"10154909265702663"
     },
     "googlePlus":{
